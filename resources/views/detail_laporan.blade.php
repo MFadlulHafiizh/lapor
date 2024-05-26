@@ -1,4 +1,4 @@
-@extends('base_layout')
+@extends('layout.base_layout')
 @section('content')
 <p class="warnain">test</p>
 <div id="carouselExampleIndicators" class="carousel slide">
